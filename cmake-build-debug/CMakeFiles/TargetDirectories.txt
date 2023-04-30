@@ -1,0 +1,3 @@
+/Users/pinglei.he/CLionProjects/os_playground/cmake-build-debug/CMakeFiles/os_playground.dir
+/Users/pinglei.he/CLionProjects/os_playground/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pinglei.he/CLionProjects/os_playground/cmake-build-debug/CMakeFiles/rebuild_cache.dir
