@@ -1,9 +1,10 @@
 # ninja log v5
-0	203	1682708833289206781	CMakeFiles/os_playground.dir/main.c.o	7b46100282beaac8
-204	410	1682708833497585662	os_playground	3f2f94daf9063532
-0	32	1682709953596143489	CMakeFiles/os_playground.dir/main.c.o	7b46100282beaac8
-33	68	1682709953632394859	os_playground	3f2f94daf9063532
-1	30	1682709979118731385	CMakeFiles/os_playground.dir/main.c.o	7b46100282beaac8
-30	67	1682709979155853383	os_playground	3f2f94daf9063532
 0	598	1682874138141303145	CMakeFiles/os_playground.dir/main.c.o	7b46100282beaac8
 598	839	1682874138383065938	os_playground	3f2f94daf9063532
+0	74	1682875524448966519	CMakeFiles/os_playground.dir/producer_consumer.c.o	2e422fba8acb9ef7
+1	24	1682875553157588789	CMakeFiles/os_playground.dir/main.c.o	7b46100282beaac8
+24	70	1682875553203916265	os_playground	68b862938c1ef2c
+0	27	1682875564885161994	CMakeFiles/os_playground.dir/producer_consumer.c.o	2e422fba8acb9ef7
+27	63	1682875564920882597	os_playground	68b862938c1ef2c
+0	34	1682875716532108738	CMakeFiles/os_playground.dir/producer_consumer.c.o	2e422fba8acb9ef7
+34	74	1682875716575620142	os_playground	68b862938c1ef2c
