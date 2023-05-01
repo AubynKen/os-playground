@@ -55,14 +55,8 @@ build CMakeFiles/os_playground.dir/main.c.o: C_COMPILER__os_playground_Debug /Us
   OBJECT_DIR = CMakeFiles/os_playground.dir
   OBJECT_FILE_DIR = CMakeFiles/os_playground.dir
 
-build CMakeFiles/os_playground.dir/producer_consumer.c.o: C_COMPILER__os_playground_Debug /Users/pinglei.he/CLionProjects/os_playground/producer_consumer.c || cmake_object_order_depends_target_os_playground
-  DEP_FILE = CMakeFiles/os_playground.dir/producer_consumer.c.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu11
-  OBJECT_DIR = CMakeFiles/os_playground.dir
-  OBJECT_FILE_DIR = CMakeFiles/os_playground.dir
-
-build CMakeFiles/os_playground.dir/semaphore.c.o: C_COMPILER__os_playground_Debug /Users/pinglei.he/CLionProjects/os_playground/semaphore.c || cmake_object_order_depends_target_os_playground
-  DEP_FILE = CMakeFiles/os_playground.dir/semaphore.c.o.d
+build CMakeFiles/os_playground.dir/sema_producer_consumer.c.o: C_COMPILER__os_playground_Debug /Users/pinglei.he/CLionProjects/os_playground/sema_producer_consumer.c || cmake_object_order_depends_target_os_playground
+  DEP_FILE = CMakeFiles/os_playground.dir/sema_producer_consumer.c.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu11
   OBJECT_DIR = CMakeFiles/os_playground.dir
   OBJECT_FILE_DIR = CMakeFiles/os_playground.dir
@@ -75,7 +69,7 @@ build CMakeFiles/os_playground.dir/semaphore.c.o: C_COMPILER__os_playground_Debu
 #############################################
 # Link the executable os_playground
 
-build os_playground: C_EXECUTABLE_LINKER__os_playground_Debug CMakeFiles/os_playground.dir/main.c.o CMakeFiles/os_playground.dir/producer_consumer.c.o CMakeFiles/os_playground.dir/semaphore.c.o
+build os_playground: C_EXECUTABLE_LINKER__os_playground_Debug CMakeFiles/os_playground.dir/main.c.o CMakeFiles/os_playground.dir/sema_producer_consumer.c.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/os_playground.dir
   POST_BUILD = :

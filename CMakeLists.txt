@@ -3,4 +3,4 @@ project(os_playground C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(os_playground main.c)
+add_executable(os_playground main.c sema_producer_consumer.c sema_producer_consumer.c)
